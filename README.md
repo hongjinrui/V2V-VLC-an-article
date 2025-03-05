@@ -1,0 +1,1 @@
+We analyzed the performance of the visible light communication system under dynamic vehicles, but we submitted it to ARXIV, but the paper is still incomplete, so we retracted the paper and now stores it on github as proof
